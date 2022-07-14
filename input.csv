@@ -1,0 +1,4 @@
+a,b,c,attr_foo,attr_bar
+x,y,z,TRUE,FALSE
+x2,y2,z2,FALSE,TRUE
+x3,y3,z3,TRUE,TRUE
